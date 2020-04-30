@@ -3,7 +3,7 @@
 	url = https://github.com/ethereum/cable
 [submodule "setup-tools/depends/libff"]
 	path = setup-tools/depends/libff
-	url = https://github.com/AztecProtocol/libff
+	url = https://github.com/o1-labs/libff
 	branch = master
 [submodule "setup-tools/depends/libfqfft"]
 	path = setup-tools/depends/libfqfft
